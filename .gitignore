@@ -1,0 +1,9 @@
+# Données locales générées par le HIDS
+baseline.json
+smtp.cred
+*.cred
+*.log
+monitor_log.txt
+hids.config.json
+Test.txt
+Test.txt.bak
