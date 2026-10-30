@@ -1,0 +1,24 @@
+{
+  "Targets": [
+    "C:\\HIDS\\Test.txt",
+    "C:\\Windows\\System32\\drivers\\etc\\hosts"
+  ],
+  "RemoteHosts": [
+    "127.0.0.1"
+  ],
+  "ScanIntervalMinutes": 0.05,
+  "Smtp": {
+    "Server": "smtp.gmail.com",
+    "Port": 587,
+    "UseSsl": true,
+    "From": "admin@example.com",
+    "To": [
+      "admin@example.com"
+    ],
+    "SubjectPrefix": "[HIDS]"
+  },
+  "CredPath": "C:\\ProgramData\\HIDS\\smtp.cred",
+  "BaselinePath": "C:\\HIDS\\baseline.json",
+  "LogPath": "C:\\HIDS\\monitor_log.txt",
+  "UseFileWatcher": true
+}
