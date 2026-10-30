@@ -49,6 +49,12 @@ Les rapports fournis documentent :
 - La réception d'alertes par e-mail.
 - La création d'une tâche planifiée Windows et l'utilisation du menu d'administration.
 
+## Démonstration vidéo
+
+[**Voir la démonstration du HIDS PowerShell (MP4, 28 secondes)**](HIDS_demo_anonymisee_discrete.mp4)
+
+Cette vidéo est un extrait anonymisé d'une démonstration réalisée dans le cadre du projet académique. Elle montre la surveillance de fichiers et la détection de modifications dans le laboratoire Windows.
+
 ## Captures de démonstration
 
 ### Détection d'une modification
