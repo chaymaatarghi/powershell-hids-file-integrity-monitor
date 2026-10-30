@@ -49,6 +49,20 @@ Les rapports fournis documentent :
 - La réception d'alertes par e-mail.
 - La création d'une tâche planifiée Windows et l'utilisation du menu d'administration.
 
+## Captures de démonstration
+
+### Détection d'une modification
+
+![Détection d'une modification de fichier](screenshots/d%C3%A9tection%20du%20fichie.png)
+
+### Menu d'administration PowerShell
+
+![Menu d'administration du HIDS](screenshots/menu%20d'administration.png)
+
+### Journal des alertes
+
+![Journal de surveillance et d'alertes](screenshots/journal%20hids.log%20avec%20d%C3%A9tection%20et%20envoi%20d'alerte.png)
+
 ## Limites de cette version
 
 Le code publié est une **version de démonstration issue du projet académique**, avec anonymisation de la configuration et retrait d'une ligne de console accidentellement présente dans `GenerateBaseline.ps1`. Il n'a pas été retesté dans cet environnement.
